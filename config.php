@@ -1,5 +1,5 @@
 <?php
-// HTTP
+// HTTP ok
 define('HTTP_SERVER', 'http://localhost/carvongo/');
 
 // HTTPS
